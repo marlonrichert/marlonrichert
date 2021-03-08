@@ -1,1 +1,1 @@
-Do you enjoy using my software? Please considering [sponsoring me](https://github.com/sponsors/marlonrichert). 💝
+Do you use my software on a regular basis? Please considering [sponsoring me](https://github.com/sponsors/marlonrichert). 💝
